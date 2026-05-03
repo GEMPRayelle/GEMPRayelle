@@ -3,6 +3,7 @@
 - 🛠️ I’m currently working with Unity, C#, Shader Graph.
 - 📋 I’m currently learning ECS/DOTS, Advanced C++, UGUI, etc.
 - 🚩 Currently working on: Project:Volcain, etc.
+- 🛠️ Currently using AI Tools: Claude Code, Codex CLI, etc.
 
 <!--
 **GEMPRayelle/GEMPRayelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
